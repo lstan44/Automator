@@ -1,4 +1,4 @@
-# cs-265-final-project
+# Automator
 A bash program designed to help do some tasks that one would consider to be tedious.
 
 The program allows you to go to any directory and perform these tasks:
